@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
 
-  get '/search' => 'internetflix#search'
+  post '/search' => 'internetflix#search'
 
 end
