@@ -49,3 +49,8 @@ node_modules/
 /yarn-error.log
 
 .byebug_history
+
+
+# ignore api keys
+
+.api_key.rb
